@@ -19,3 +19,7 @@ Developed a Conceptual Model and a MYSQL diagram that have 10 entities, and a nu
 ### Milestone 3: 
 * Deployed database to AWS cloud. 
 * Utilized Tableau to visualize and present the key findings that helped answer the business problems including supplies, merchandising, and marketing campaigns.
+
+## Sample Screenshot
+
+![ER](https://user-images.githubusercontent.com/60991189/101317333-27e84680-3813-11eb-9912-4710808ce1d6.PNG)
