@@ -1,4 +1,4 @@
-# SQL Database Design and Visualization
+# Database an Data Warehouse Design
 
 ### Milestone 1: 
 
